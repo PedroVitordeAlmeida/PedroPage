@@ -51,7 +51,7 @@ body{
 }
 
 .imagemmain {
-    width: 600px;
+    width: 500px;
     padding: 20px;
 }
 
@@ -112,4 +112,24 @@ body{
 .Botão:hover {
     background: white;
     color: black;
+}
+
+.footerfinal{
+    background-color: #161617;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    width: 100%;
+}
+
+.labelfooter {
+    font-size: 10px;
+    font-family:"Montserrat", sans-serif; 
+    color: white;
+}
+
+.insta {
+    color: white;
+
 }
